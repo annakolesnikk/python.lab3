@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+*.egg-info/
+dist/
+build/
+data/employees_*.csv
+data/export.csv

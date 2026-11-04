@@ -1,0 +1,12 @@
+employee_id,name,position,department,salary
+1,anna kolesnik,Manager,Sales,1200
+2,oleh ivanenko,Developer,IT,2500
+3,iryna petrenko,Accountant,Finance,1800
+4,andrii shevchenko,Designer,IT,2000
+
+5,olena kovalenko,Sales Representative,Sales,1100
+6,Invalid Employee,Developer,IT,error
+7,taras bondar,Developer,IT,2700
+8,,Analyst,Finance,1900
+9,maria boyko,Analyst,Finance,-500
+10,dmytro melnyk,Manager,Sales,1500
